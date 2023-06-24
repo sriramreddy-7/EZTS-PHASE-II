@@ -24,8 +24,8 @@ graph.add_edge(0,2,3)
 graph.add_edge(1,3,5)
 graph.add_edge(1,4,15)
 graph.add_edge(4,2,7)
-graph.add_edge(4,3,41)
-graph.add_edge()
+graph.add_edge(4,3,11)
+graph.print_adj_list()
 
 
             
