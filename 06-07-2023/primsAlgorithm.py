@@ -1,7 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2021 AppMillers. All rights reserved.
-
-# Prims Algorithm  in Python
 import sys
 class Graph:
     def __init__(self, vertexNum, edges, nodes):
